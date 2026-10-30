@@ -1,0 +1,12 @@
+{
+  "dataset": "Helsinki-NLP/opus_books",
+  "config": "en-fr",
+  "seed": 42,
+  "clean_pairs": 99264,
+  "train": 2000,
+  "validation": 100,
+  "test": 100,
+  "max_chars": 180,
+  "normalization": "NFKC + collapsed whitespace",
+  "gpu": "Tesla T4"
+}

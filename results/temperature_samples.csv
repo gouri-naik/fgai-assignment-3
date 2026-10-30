@@ -1,0 +1,16 @@
+model,temperature,source_en,reference_fr,translation_fr
+LLaMA,0.3,"Now, one Sunday the model did not return; no doubt she had found a warmer and more comfortable place to lodge.","Sur ces entrefaites, le modèle le quitta brusquement. Un dimanche, cette fille ne rentra pas; elle avait sans doute trouvé un gîte plus chaud et plus confortable.","French: Maintenant, un dimanche, le modèle n'est pas revenu; il n'y a pas de doute qu'elle a trouvé un endroit plus chaude et plus confortable."
+LLaMA,0.3,The history of England serves as a mirror to show me our future.,L’histoire d’Angleterre me sert de miroir pour notre avenir.,English: La histoire d'Angleterre sert de miroir pour montrer à moi notre avenir.
+LLaMA,0.3,"""The 'Maria Stella!'","La Maria-Stella! un beau baleinier, ma foi!",La 'Maria Stella'
+LLaMA,0.3,"""To-morrow morning at six precisely,"" my uncle decreed ""we start.""","«À demain matin, dit mon oncle, nous partons à six heures précises.»","""À l'heure du matin à six, précisément, mon oncle a décidé : nous commençons."""
+LLaMA,0.3,"Yes, do that, for my sake, to oblige me.","Oui fais cela! pour moi, pour m’obliger.","French: Oui, fasse cela, pour ma part, pour m'obtenir."
+LLaMA,0.7,"Now, one Sunday the model did not return; no doubt she had found a warmer and more comfortable place to lodge.","Sur ces entrefaites, le modèle le quitta brusquement. Un dimanche, cette fille ne rentra pas; elle avait sans doute trouvé un gîte plus chaud et plus confortable.",On ne retourne plus le lundi
+LLaMA,0.7,The history of England serves as a mirror to show me our future.,L’histoire d’Angleterre me sert de miroir pour notre avenir.,English: Le passé de l'Angleterre sert de miroir pour montrer notre avenir.
+LLaMA,0.7,"""The 'Maria Stella!'","La Maria-Stella! un beau baleinier, ma foi!",La 'Maria Stella'.
+LLaMA,0.7,"""To-morrow morning at six precisely,"" my uncle decreed ""we start.""","«À demain matin, dit mon oncle, nous partons à six heures précises.»","""À demain matin à six heures précis, mon oncle a décidé "" nous allons commencer."
+LLaMA,0.7,"Yes, do that, for my sake, to oblige me.","Oui fais cela! pour moi, pour m’obliger.","Oui, fait cela, pour ma part, pour me faire."
+LLaMA,1.0,"Now, one Sunday the model did not return; no doubt she had found a warmer and more comfortable place to lodge.","Sur ces entrefaites, le modèle le quitta brusquement. Un dimanche, cette fille ne rentra pas; elle avait sans doute trouvé un gîte plus chaud et plus confortable.","Now, un dimanche, le modèle ne revint pas ; sans doute elle avait trouvé un endroit plus chaude et plus confortable à héberger."
+LLaMA,1.0,The history of England serves as a mirror to show me our future.,L’histoire d’Angleterre me sert de miroir pour notre avenir.,English: La histoire d'Angleterre sert de rétroviseur pour montrer notre avenir.
+LLaMA,1.0,"""The 'Maria Stella!'","La Maria-Stella! un beau baleinier, ma foi!","The translation of ""The 'Maria Stella!' "" is ""La 'Marie-Stella!'"""
+LLaMA,1.0,"""To-morrow morning at six precisely,"" my uncle decreed ""we start.""","«À demain matin, dit mon oncle, nous partons à six heures précises.»","""À une heure du matin au six, mon oncle a décidé ""nous commençons."""
+LLaMA,1.0,"Yes, do that, for my sake, to oblige me.","Oui fais cela! pour moi, pour m’obliger.","Oui, fais-le, pour mon compte, pour me faire."
